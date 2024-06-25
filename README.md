@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/samueldelorenzi/LogicaDeProgramacao?style=for-the-badge)
 ![GitHub repo created](https://img.shields.io/github/created-at/samueldelorenzi/LogicaDeProgramacao?style=for-the-badge&color=blue)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="imagem.png" alt="ProgramacaoI">
 
 > Matéria feita na faculdade de Ciência da Computação na UNOESC.
 
